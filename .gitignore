@@ -36,7 +36,7 @@ database.sqlite
 database.sqlite-journal
 
 # Uploads
-uploads/
+# uploads/ (commented out so seed images are deployed)
 temp/
 
 # Render
